@@ -1,5 +1,229 @@
 # YaFuture
 
+# Ayagrubmi
+Production name: YaBMI ( A  ya GruBMI  )
+Version: Es`av1.2
+Author and developer: Whitekali
+
+Ayagrubmi is a Flutter project aimed at providing a BMI calculator and related features for users to manage their health and fitness.
+
+## Project Overview
+
+Ayagrubmi provides the following features:
+
+- **BMI Calculator**: Allows users to calculate their Body Mass Index (BMI) by inputting their weight and height.
+- **Profile Management**: Users can view and manage their profile information, including personal details and health statistics.
+- **History Tracking**: Keeps track of BMI calculation history for users to monitor their progress over time.
+- **Statistical Analysis**: Provides statistical analysis of BMI data to offer insights into users' health and fitness trends.
+
+## Getting Started
+
+To get started with Ayagrubmi, follow these steps:
+
+1. Clone the project repository from GitHub:
+
+git clone https://github.com/your_username/ayagrubmi.git
+
+2. Navigate to the project directory:
+
+cd ayagrubmi
+
+3. Install dependencies using Flutter:
+
+flutter pub get
+
+4. Run the project on your preferred device or simulator:
+
+flutter run
+
+## Resources
+### APP Pages
+
+ _________________________________
+|        Ayagrubmi                |
+|--------------------------------|
+|    Flutter BMI Calculator and    |
+|     Related Features            |
+|_________________________________|
+
+
+ _________________________________
+|     Let's get started!           |
+|--------------------------------|
+|    - Tutorial                   |
+|    - BMI Calculator              |
+|    - Profile                     |
+|_________________________________|
+
+
+ _________________________________
+|                                  |
+|   Ayagrubmi is a simple          |
+|   and intuitive app that allows |
+|   users to calculate their BMI  |
+|   and manage their health and   |
+|   fitness. Simply tap on one of   |
+|   the buttons below to get       |
+|   started.                        |
+|_________________________________|
+
+ _________________________________
+|_________________________________|
+
+ _________________________________
+|      Ayagrubmi                  |
+|--------------------------------|
+|    - App Title                  |
+|    - Quick Start Text            |
+|_________________________________|
+
+
+ _________________________________
+|_________________________________|
+
+ _________________________________
+|      Ayagrubmi                  |
+|--------------------------------|
+|    - Tutorial Button            |
+|    - BMI Calculator Button       |
+|    - Profile Button             |
+|_________________________________|
+
+ _________________________________
+|_________________________________|
+
+ _________________________________
+|      Ayagrubmi                  |
+|--------------------------------|
+|    - App Title                  |
+|    - Quick Start Text            |
+|    - Copyright and other info    |
+|_________________________________|
+
+ _________________________________
+|_________________________________|
+____________________________
+|          Ekran Logowania   |
+|----------------------------|
+|    - Pola do wprowadzenia  |
+|      danych logowania      |
+|    - Przycisk "Zaloguj się"|
+|    - Przejście do ekranu   |
+|      rejestracji           |
+|____________________________|
+
+
+<!-- Przycisk umożliwiający przejście do ekranu rejestracji/ -->
+<!-- Ekran logowania: -->
+
+<!-- Tytuł "Logowanie" -->
+<!-- Pola tekstowych do wprowadzenia danych logowania (nazwa użytkownika lub adres e-mail oraz hasło) -->
+<!-- Przycisk "Zaloguj się" -->
+<!-- <!-- Przycisk umożliwiający przejście do ekranu rejestracji/ -->
+<!-- Przycisk umożliwiający przejście do ekranu rejestracji/ -->
+
+Ekran logowania wygląda w sposób czytelny i intuicyjny, z prostym układem i klarownym interfejsem. Pola tekstowych do wprowadzenia danych logowania są umieszczone w centralnej części ekranu, aby użytkownik mógł łatwo je zauważyć i wypełnić. Przycisk "Zaloguj się" jest wyraźnie oznaczony i łatwo dostępny dla użytkownika. Przycisk przejścia do ekranu rejestracji znajduje się w widocznym miejscu, aby zachęcić nowych użytkowników do założenia konta. Tło ekranu logowania jest stonowane, z wykorzystaniem neutralnych odcieni kolorów, aby skupić uwagę użytkownika na polach do wprowadzenia danych. Cały ekran jest zgodny z wielowarstwową animacją, dodającąc interaktywny i dynamiczny charakter aplikacji.
+
+
+ ____________________________
+|          Ekran Rejestracji  |
+|----------------------------|
+|    - Tytuł "Rejestracja"    |
+|    - Pola do wprowadzenia  |
+|      danych rejestracji    |
+|    - Przycisk "Zarejestruj" |
+|    - Przycisk "Przejście do"  |
+|      ekranu logowania       |
+|      (Przycisk umożliwiający|
+|       przejście do ekranu   |
+|       logowania)            |
+|____________________________|
+
+Ekran rejestracji wygląda w sposób przystępny i przejrzysty, aby ułatwić nowym użytkownikom rejestrację. Pola tekstowych do wprowadzenia danych rejestracji są rozmieszczone w centralnej części ekranu, aby użytkownik mógł łatwo wprowadzić swoje dane. Przycisk "Zarejestruj" jest wyraźnie oznaczony i łatwo dostępny dla użytkownika. Przycisk przejścia do ekranu logowania znajduje się w widocznym miejscu, aby użytkownicy, którzy już mają konta, mogli łatwo się zalogować. Tło ekranu rejestracji jest stonowane, z wykorzystaniem neutralnych odcieni kolorów, aby skupić uwagę użytkownika na polach do wprowadzenia danych. Cały ekran jest zgodny z wielowarstwową animacją, co dodaje interaktywny i dynamiczny charakter aplikacji.
+ ____________________________
+|         Ekran Home         |
+|----------------------------|
+|    - Przejścia do ekranu   |
+|      kalkulatora BMI,      |
+|      profilu użytkownika,  |
+|      statystyk itp.        |
+|____________________________|
+
+Ekran Home jest centralnym punktem nawigacyjnym aplikacji, umożliwiającym użytkownikowi dostęp do różnych funkcji. Zawiera przyciski prowadzące do ekranów kalkulatora BMI, profilu użytkownika, statystyk oraz innych funkcji aplikacji.
+
+ ____________________________
+|       Ekran Kalkulatora    |
+|       BMI                  |
+|----------------------------|
+|    - Pola do wprowadzenia  |
+|      danych (waga, wzrost) |
+|    - Przycisk "Oblicz"     |
+|    - Wyświetlenie wyniku   |
+|      BMI i interpretacji   |
+|____________________________|
+
+Ekran Kalkulatora BMI umożliwia użytkownikowi obliczenie swojego wskaźnika masy ciała (BMI) na podstawie podanych danych, takich jak waga i wzrost. Po wprowadzeniu danych i naciśnięciu przycisku "Oblicz", użytkownik otrzymuje wynik BMI oraz interpretację wyniku, informującą go o jego kategorii wagowej.
+
+ ____________________________
+|        Ekran Profilu       |
+|       Użytkownika          |
+|----------------------------|
+|    - Wyświetlenie danych   |
+|      użytkownika (imię,    |
+|      wiek, waga, wzrost,   |
+|      historia pomiarów)    |
+|    - Edycja danych         |
+|    - Przejście do ekranu   |
+|      zmiany hasła,         |
+|      wylogowania itp.      |
+|____________________________|
+
+Ekran Profilu Użytkownika pozwala użytkownikowi przeglądać i zarządzać swoimi danymi osobistymi oraz historią pomiarów BMI. Zawiera informacje takie jak imię, wiek, wagę, wzrost oraz historię pomiarów. Użytkownik ma również możliwość edycji swoich danych oraz przejścia do innych funkcji, takich jak zmiana hasła czy wylogowanie się.
+
+
+[online documentation]
+- [Flutter Documentation](https://docs.flutter.dev/),
+- [Flutter Documentation](https://docs.flutter.dev/): Official documentation for Flutter, offering tutorials, samples, and a full API reference.
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook): Collection of useful Flutter code samples for common use cases.
+- [Flutter Codelab](https://docs.flutter.dev/get-started/codelab): Step-by-step guide to writing your first Flutter app.
+
+Dart SDK 3.3.3
+Flutter SDK 3.19.5
+ayagrubmi 1.0.0+1
+|-- cupertino_icons 1.0.6
+|-- flutter
+|   |-- characters 1.3.0
+|   |-- collection 1.18.0
+|   |-- material_color_utilities 0.8.0
+|   |   `-- collection 1.18.0
+|   |-- meta 1.11.0
+|   |-- sky_engine 0.0.99
+|   `-- vector_math 2.1.4
+|-- flutter_lints 3.0.2
+|   `-- lints 3.0.0
+|-- flutter_spinkit 5.2.1
+|   `-- flutter_spinkit
+|-- flutter_test
+|   |-- async 2.11.0
+|   |-- boolean_selector 2.1.1
+|   |-- clock 1.1.1
+|   |-- fake_async 1.3.1
+|   |-- leak_tracker 10.0.0
+|   |-- leak_tracker_flutter_testing 2.0.1
+|   |-- leak_tracker_testing 2.0.1
+|   |-- matcher 0.12.16+1
+|   |-- path 1.9.0
+|   |-- source_span 1.10.0
+|   |-- stack_trace 1.11.1
+|   |-- stream_channel 2.1.2
+|   |-- string_scanner 1.2.0
+|   |-- term_glyph 1.2.1
+|   |-- test_api 0.6.1
+|   |-- vm_service 13.0.0
+|   `-- characters
+`-- characters
+
+
 ### **Krok 1: Utworzenie aplikacji i generowanie tokenów API**
 
 Aby móc używać API w projekcie, musisz stworzyć aplikację w systemie, który udostępnia takie usługi (np. GitHub, Google Cloud, Semantic Scholar, itp.).
