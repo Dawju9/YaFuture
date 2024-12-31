@@ -1,7 +1,7 @@
 name : Ultimate workflow Node.js CI
 on:
   push:
-    branches: [main]
+    branches: kalies
 
 jobs:
   build:
