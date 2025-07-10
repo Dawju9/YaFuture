@@ -341,3 +341,41 @@ W środowisku produkcyjnym bardzo ważne jest, aby:
 Zacząłeś od stworzenia aplikacji w panelu deweloperskim, generowania tokenów API i konfiguracji aplikacji. Klucze API są przechowywane w bezpieczny sposób (np. w pliku `.env`). Zastosowanie tokenów API w aplikacji i testowanie komunikacji z API pozwala na integrację danych z Twoim projektem. Pamiętaj o dobrych praktykach bezpieczeństwa, szczególnie w środowisku produkcyjnym.
 
 Czy masz pytania lub chciałbyś bardziej szczegółowo omówić któryś z kroków?
+
+
+
+# Ya-Whitekali
+
+Witamy w repozytorium o mnie oraz mojej stronie internetowej!
+
+## Opis
+
+To repozytorium zawiera:
+- Moje portfolio i informacje o mnie.
+- Kod źródłowy mojej strony (w folderze `site/`).
+
+## Jak uruchomić stronę lokalnie
+
+1. Wejdź do katalogu `site/`.
+2. Otwórz plik `index.html` w przeglądarce.
+
+## Struktura katalogów
+
+- `site/` – pliki strony internetowej (HTML, CSS, JS)
+- `.github/` – szablony zgłoszeń i pull requestów
+- `README.md` – ten plik
+- `CONTRIBUTING.md` – wytyczne dla współtwórców
+- `LICENSE` – licencja projektu
+
+## Licencja
+
+Projekt dostępny na licencji [Twoja licencja, np. MIT].
+
+## Sugestie i błędy
+
+Chcesz zgłosić błąd lub masz pomysł na ulepszenie? Skorzystaj z zakładki Issues!
+
+---
+
+> Repozytorium spełnia Zasady i Najlepsze Praktyki Organizacji GitHub.
+
